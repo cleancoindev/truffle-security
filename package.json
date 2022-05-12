@@ -4,7 +4,7 @@
   "version": "1.7.2",
   "description": "MythX security analysis plugin for the Truffle Framework",
   "dependencies": {
-    "@truffle/artifactor": "^4.0.36",
+    "@truffle/artifactor": "^4.0.150",
     "@truffle/compile-vyper": "^1.0.33",
     "@truffle/config": "^1.2.6",
     "@truffle/contract": "^4.0.37",
